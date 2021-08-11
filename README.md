@@ -9,13 +9,13 @@ Das Projekt wird in der Open Innovation City-Community als Idee vorgeschlagen.
 
 **To Dos**
 
-Auswahl Sensorik
-Anbindung der Sensorik ans TTN
-TTN Abdeckung: Aufstellen von Gateways an den richtigen Orten
-Finden von Sponsoren für Gateways
-Aufnehmen der Daten aus TTN-Backend und Ablage in einem Backend
-Aufsetzen und Auswahl geeignetes Backend für Anwendung
-Frontend für Anwendung
-Aufbereitung der Daten als Heatmap der Bodenfeuchte
-Workshops und Vorträge zur Anwendung, Wissensweitergabe
-Aufbereitung Hardware und Firmware, damit Privatpersonen ihre eigenen Sensoren „betreuen“ können (analog sensor.community) und leicht alles aufsetzen können
+- Auswahl Sensorik
+- Anbindung der Sensorik ans TTN
+- TTN Abdeckung: Aufstellen von Gateways an den richtigen Orten
+- Finden von Sponsoren für Gateways
+- Aufnehmen der Daten aus TTN-Backend und Ablage in einem Backend
+- Aufsetzen und Auswahl geeignetes Backend für Anwendung
+- Frontend für Anwendung
+- Aufbereitung der Daten als Heatmap der Bodenfeuchte
+- Workshops und Vorträge zur Anwendung, Wissensweitergabe
+- Aufbereitung Hardware und Firmware, damit Privatpersonen ihre eigenen Sensoren „betreuen“ können (analog sensor.community) und leicht alles aufsetzen können
