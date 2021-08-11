@@ -5,7 +5,7 @@ Soil moisture map for the Teutoburger forest
 
 Über LoRaWAN (z.B. TTN) werden Werte von Bodenfeuchtigkeitssensoren gesammelt und dargestellt. Bodenfeuchtigkeit ist eng verknüpft mit Waldbrandgefahren, aber auch einem deutlichen Aufzeigen des Klimawandels und hat daher ein hohes Interesse bei Bürger:innen in Bielefeld. Es kann zum einen für die Kommunikation mit Bürger:innen verwendet werden und kann transparent und objektivierbar machen, wie sich der Wald entwickelt. Das Projekt kann aber auch z.B. für Schüler:innen interessant sein bei der Einführung von Sensor- und Funktechnologien.
 
-Das Projekt wird in der Open Innovation City-Community als Idee vorgeschlagen.
+Das Projekt wird in der Open Innovation City-Community als Idee vorgeschlagen, hier der Link: https://community.openinnovationcity.de/app/post/30
 
 **To Dos**
 
